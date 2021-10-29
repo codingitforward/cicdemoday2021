@@ -101,7 +101,7 @@ This repository features the slides that Corps members presented during their re
 
 **Maria Conchita Navarro** is a rising senior at Wellesley College studying Media Arts & Sciences, a combination of Computer Science, Studio Art, and Art History courses. 
 
-**Mariana Haro** is a rising junior at Harvard College studying Computer Science and Government. This summer, she worked on a project at the City of Boston’s Department of Innovation and Technology that consisted of taking design components from the City's website to add them to their design system for easy future use.
+**Mariana Haro** is a rising junior at Harvard College studying Computer Science and Government. 
 
 **Maria Milosh** is a graduate student at the University of Chicago studying Computational Analysis and Public Policy. This summer, she worked at the New York City Department of City Planning’s Regional Planning team on housing data in the NYC region. She collected housing data from various sources and conducted visualization and analysis of housing activity that has taken place over the last 40 years. | [Presentation](Maria_Milosh.pdf) 
 
@@ -121,7 +121,7 @@ This repository features the slides that Corps members presented during their re
 
 **Renoj Varghese** is a recent graduate of the University of Connecticut where he studied Digital Media & Design.  | [Presentation](Megan_Demit.pdf) 
 
-**Rudransh Dikshit** is a rising junior at Texas A&M University studying Computer Science. This summer, he worked as a software engineering Corps member at the New York City Department of City Planning’s Urban Design Office to design a REST-API to track sun position data and helped design an algorithm to calculate the roof pitch of buildings in New York and assess for solar potential.
+**Rudransh Dikshit** is a rising junior at Texas A&M University studying Computer Science.
 
 **Ryan Bushman** is a senior at Utah State University studying Statistics. This summer, he worked at the New York City Department of Health & Mental Hygiene’s Center for Health Equity and Community Wellness, creating numerous data visualization tools using Tableau. The intent of the project was to assess the performance of the agency’s By My Side Birth Support Program over time. The project is accompanied by a user guide for those unfamiliar with the software. He also conducted a quality-control analysis of the data collected by the program. 
 
