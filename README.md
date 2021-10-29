@@ -1,4 +1,30 @@
 ### Introduction
+The Civic Innovation Corps is a first-of-its-kind internship mobilizing the next generation of technologists to create civic impact in cities and states across the country. 2021 marked the program’s inaugural year of placing software engineering, data science, product management, and design students at three state and six city host offices. 
+
+We are grateful to our host offices who provided our Corps members the opportunity to serve and grow this summer:
+- [Austin Transportation, Data & Technology Services](https://www.austinmobility.io)
+- [Boston Citywide Analytics Team](https://www.boston.gov/departments/analytics-team) 
+- [Boston Department of Innovation and Technology](https://www.boston.gov/departments/innovation-and-technology) 
+- [California Office of Digital Innovation](https://alpha.ca.gov/office-of-digital-innovation/) 
+- [Los Angeles Mayor’s Data Team](https://data.lacity.org/) 
+- [Los Angeles Innovation Team](https://www.losangelesinnovates.com/) 
+- [Miami’s Department of Innovation and Technology](https://www.miamigov.com/My-Government/Departments/Innovation-and-Technology-DoIT) 
+- [New Jersey Office of Innovation](https://innovation.nj.gov/) 
+- [NYC Department of City Planning, Data Engineering Team](https://medium.com/nyc-planning-digital/hello-world-were-the-data-engineering-team-at-nyc-planning-a0c26ce40e1b) 
+- [NYC Department of City Planning, Planning Labs](https://labs.planning.nyc.gov/) 
+- [NYC Department of City Planning, Regional Planning](https://www1.nyc.gov/site/planning/index.page) 
+- [NYC Department of City Planning, Urban Design Office](https://www1.nyc.gov/site/planning/planning-level/urban-design/urban-design-overview.page) 
+- [NYC Department of Health & Mental Hygiene’s Center for Health Equity & Community Wellness](https://www1.nyc.gov/site/doh/index.page) 
+- [NYC Mayor’s Office of Data Analytics](https://www1.nyc.gov/site/analytics/index.page) 
+- [NYC Mayor’s Office of Economic Opportunity](https://www1.nyc.gov/site/opportunity/index.page) 
+- [NYC Mayor’s Office of the Chief Technology Officer](https://www1.nyc.gov/assets/cto/#/) 
+- [NYC Taxi & Limousine Commission](https://www1.nyc.gov/site/tlc/index.page) 
+- [San José Mayor’s Office of Technology and Innovation](https://www.motisanjose.org/) 
+- [Utah Governor’s Office of Planning and Budget](https://gopb.utah.gov/) 
+
+Meet the 55 young technologists who served in our inaugural cohort: [Introducing the 2021 Civic Innovation Corps Members](https://blog.codingitforward.com/introducing-the-2021-civic-innovation-corps-members-a8c8296af308) 
+
+This repository features the slides that Corps members presented during their respective end-of-summer presentations at their host offices. [View a recording](https://www.youtube.com/watch?v=IwWyWFI-zEo)  of Coding it Forward’s virtual end-of-summer celebration, with keynote remarks from D.J. Patil, the former U.S. Chief Data Scientist.
 
 ### About the Corps Members 
 **_Kindly note that if a Corps member's biography does not have a link, their work is not publicly available or they presented their accomplishments during a panel discussion._**
