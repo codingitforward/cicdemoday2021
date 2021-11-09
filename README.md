@@ -69,7 +69,7 @@ This repository features the slides that Corps members presented during their re
 
 **Hailee Hove** is a recent graduate of San Diego City College where she studied Graphic Design & Interaction Design. This summer, she worked at the City of Boston’s Department of Innovation and Technology on an icon system for the Boston 311 App. | [Presentation](Hailee_Hove.pdf)
 
-**Hannah Chu** is a rising sophomore at the University of California, Los Angeles studying Linguistics. 
+**Hannah Chu** is a rising sophomore at the University of California, Los Angeles studying Linguistics. This summer, she worked at the San José Mayor’s Office of Technology and Innovation. Her project aimed to create a web portal for constituents of the City of San José to view public San José Police Department (SJPD) records. The goal was to increase transparency and build community trust by improving SJPD compliance with SB 1421, California's Right to Know Act.
 
 **Hugo Salas** is a graduate student at the University of Chicago, Harris School of Public Policy studying Computational Analysis and Public Policy. This summer, he worked at the City of Boston’s Citywide Analytics Team leveraging 311 data from the City of Boston to understand the dynamics of citizens' demands before and after the start of the COVID-19 pandemic. Particularly, using the text of each requests' description, he used Natural Language Processing to categorize each case into a topic that could easily be streamlined into a department. | [Presentation](Hugo_Salas.pdf)
 
@@ -89,15 +89,15 @@ This repository features the slides that Corps members presented during their re
 
 **Juliyen Davis** is a graduate student at Parsons School of Design studying Transdisciplinary Design. This summer, he worked at the New York City Mayor’s Office of Data Analytics conducting a review of the Recovery Data Partnership. He interviewed users to understand how MODA could improve agencies' experience with data products.
 
-**Kara Siegel** is a rising sophomore at Harvard University studying Computer Science. 
+**Kara Siegel** is a rising sophomore at Harvard University studying Computer Science. This summer, she worked at the New York City Mayor’s Office of the Chief Technology Officer on a feedback module that can be placed at the bottom of any NYC government sites so that users can easily share feedback about their experience on the site. All information will automatically be parsed via Microsoft Flow so that site administrators can view the information via a spreadsheet or an email.
 
 **Karen Chen** is a rising senior at Harvard University studying History of Art and Architecture (Design Studies). 
 
 **Kevin Zhou** is a rising sophomore at the University of Pennsylvania studying Computer Science. This summer, he worked at Miami’s Department of Innovation and Technology. 
 
-**Lucas Gelfond** is a rising sophomore at Brown University studying Computer Science. 
+**Lucas Gelfond** is a rising sophomore at Brown University studying Computer Science. This summer, he worked at the New York City Department of City Planning’s Urban Design Office on an interactive viewer to explore and move through the 3D version of the Department of City Planning's Dimensions of the City project.
 
-**Maha Hussain** is a rising senior at the University of Illinois at Urbana-Champaign studying Statistics with Business and Spanish minors. 
+**Maha Hussain** is a rising senior at the University of Illinois at Urbana-Champaign studying Statistics with Business and Spanish minors. This summer, she worked with the Los Angeles Innovation Team (i-team) on packaging and cleaning data, and building maps. The culmination of her work was a vaccine outreach helper displaying all of the vaccine, case, mortality, and testing data and resources regarding COVID-19 in one place.
 
 **Maria Conchita Navarro** is a rising senior at Wellesley College studying Media Arts & Sciences, a combination of Computer Science, Studio Art, and Art History courses. This summer, she worked as a software engineering Corps member at the New Jersey Office of Innovation. She contributed to improving the experience of prospective small business owners through the Business First Stop initiative.
 
@@ -121,7 +121,7 @@ This repository features the slides that Corps members presented during their re
 
 **Renoj Varghese** is a recent graduate of the University of Connecticut where he studied Digital Media & Design. This summer, designed digital and print products to communicate transportation policy to land developers and consultants at the City of Boston’s Department of Innovation and Technology. He created and tested a prototype that allowed land developers and consultants to submit their strategies to meet Boston’s transportation standards.
 
-**Rudransh Dikshit** is a rising junior at Texas A&M University studying Computer Science.
+**Rudransh Dikshit** is a rising junior at Texas A&M University studying Computer Science. This summer, he worked as a software engineering Corps member at the New York City Department of City Planning’s Urban Design Office to design a REST-API to track sun position data and helped design an algorithm to calculate the roof pitch of buildings in New York and assess for solar potential.
 
 **Ryan Bushman** is a senior at Utah State University studying Statistics. This summer, he worked at the New York City Department of Health & Mental Hygiene’s Center for Health Equity and Community Wellness, creating numerous data visualization tools using Tableau. The intent of the project was to assess the performance of the agency’s By My Side Birth Support Program over time. The project is accompanied by a user guide for those unfamiliar with the software. He also conducted a quality-control analysis of the data collected by the program. 
 
