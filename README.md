@@ -99,7 +99,7 @@ This repository features the slides that Corps members presented during their re
 
 **Maha Hussain** is a rising senior at the University of Illinois at Urbana-Champaign studying Statistics with Business and Spanish minors. This summer, she worked with the Los Angeles Innovation Team (i-team) on packaging and cleaning data, and building maps. The culmination of her work was a vaccine outreach helper displaying all of the vaccine, case, mortality, and testing data and resources regarding COVID-19 in one place.
 
-**Maria Conchita Navarro** is a rising senior at Wellesley College studying Media Arts & Sciences, a combination of Computer Science, Studio Art, and Art History courses. This summer, she worked as a software engineering Corps member at the New Jersey Office of Innovation. She contributed to improving the experience of prospective small business owners through the Business First Stop initiative.
+**Maita Conchita Navarro** is a rising senior at Wellesley College studying Media Arts & Sciences, a combination of Computer Science, Studio Art, and Art History courses. This summer, she worked as a software engineering Corps member at the New Jersey Office of Innovation. She contributed to improving the experience of prospective small business owners through the Business First Stop initiative.
 
 **Mariana Haro** is a rising junior at Harvard College studying Computer Science and Government. This summer, she worked on a project at the City of Boston’s Department of Innovation and Technology that consisted of taking design components from the City's website to add them to their design system for easy future use. 
 
