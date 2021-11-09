@@ -63,7 +63,7 @@ This repository features the slides that Corps members presented during their re
 
 **David Stansbury** is a recent graduate of the Harvard Kennedy School where he earned his Masters related to Technology Policy. This summer, he worked at the Utah Governor’s Office of Planning and Budget where he managed the development of a new performance measures portal built into an existing budget management application. To this end, he conducted interviews with nearly 60 stakeholders including government analysts, policy organizations, the media, and legislators, to inform every aspect of the new portal and its future.
 
-**Fatima Irfan** is a recent graduate of Wellesley College where she studied Data Science. 
+**Fatima Irfan** is a recent graduate of Wellesley College where she studied Data Science. This summer, she worked at the City of Boston’s Department of Innovation and Technology assisting with the No Tow project, which aims to help Boston residents receive appropriate guidance about street cleaning and car towing. She provided user insight and answered questions throughout the design consultation process.
 
 **Geunhee Lee** is a recent graduate of the Massachusetts Institute of Technology where she studied Urban Studies and Planning. This summer, she worked at the City of Boston’s Department of Innovation and Technology to understand immigrant communities' information connection behavior and information needs for their longer establishment. | [Presentation](Geunhee_Lee.pdf)
 
@@ -99,9 +99,9 @@ This repository features the slides that Corps members presented during their re
 
 **Maha Hussain** is a rising senior at the University of Illinois at Urbana-Champaign studying Statistics with Business and Spanish minors. 
 
-**Maria Conchita Navarro** is a rising senior at Wellesley College studying Media Arts & Sciences, a combination of Computer Science, Studio Art, and Art History courses. 
+**Maria Conchita Navarro** is a rising senior at Wellesley College studying Media Arts & Sciences, a combination of Computer Science, Studio Art, and Art History courses. This summer, she worked as a software engineering Corps member at the New Jersey Office of Innovation. She contributed to improving the experience of prospective small business owners through the Business First Stop initiative.
 
-**Mariana Haro** is a rising junior at Harvard College studying Computer Science and Government. 
+**Mariana Haro** is a rising junior at Harvard College studying Computer Science and Government. This summer, she worked on a project at the City of Boston’s Department of Innovation and Technology that consisted of taking design components from the City's website to add them to their design system for easy future use. 
 
 **Maria Milosh** is a graduate student at the University of Chicago studying Computational Analysis and Public Policy. This summer, she worked at the New York City Department of City Planning’s Regional Planning team on housing data in the NYC region. She collected housing data from various sources and conducted visualization and analysis of housing activity that has taken place over the last 40 years. | [Presentation](Maria_Milosh.pdf) 
 
@@ -113,13 +113,13 @@ This repository features the slides that Corps members presented during their re
 
 **Megan Demit** is a graduate student at Maryland Institute College of Art studying UX Design. This summer, she worked with the City of Boston’s Department of Innovation and Technology’s Digital Team. She helped build a cloud-based design system for designers, developers, and partners working on projects for the City of Boston. This project built upon previous work the City had done creating a patterns library for UI developers, and will continue to evolve to improve design to development handoffs. | [Presentation](Megan_Demit.pdf) 
 
-**Michelle Liu** is a rising sophomore at Carnegie Mellon University, studying Information Systems and Computer Science. 
+**Michelle Liu** is a rising sophomore at Carnegie Mellon University, studying Information Systems and Computer Science. This summer, she worked as a software engineering Corps member at the New York City Mayor's Office of the Chief Technology Officer, developing an embeddable feedback module widget that enables user research and feedback processes across NYC agency websites.
 
 **Miriam Shamash** is a rising junior at Tufts University studying Computer Science & Engineering Psychology. 
 
 **Regina Joy Alcazar** is a recent graduate of Columbia University’s Graduate School of Architecture, Planning, and Preservation where she studied Urban Planning. This summer, she worked on a project that addresses the ongoing eviction crisis in the City of Los Angeles by evaluating the effectiveness of the early financial distribution of the COVID-19 Emergency Rental Assistance Program (ERAP) to provide policy and data analysis recommendations for future program implementation. As of August 2021, the preliminary evaluation of the allocation of ERAP funds, designed a framework for understanding who accessed the application to apply for rental assistance, and identify neighborhoods where ERAP relief was still needed.
 
-**Renoj Varghese** is a recent graduate of the University of Connecticut where he studied Digital Media & Design.  | [Presentation](Megan_Demit.pdf) 
+**Renoj Varghese** is a recent graduate of the University of Connecticut where he studied Digital Media & Design. This summer, designed digital and print products to communicate transportation policy to land developers and consultants at the City of Boston’s Department of Innovation and Technology. He created and tested a prototype that allowed land developers and consultants to submit their strategies to meet Boston’s transportation standards.
 
 **Rudransh Dikshit** is a rising junior at Texas A&M University studying Computer Science.
 
