@@ -43,11 +43,11 @@ This repository features the slides that Corps members presented during their re
 
 **Antonio Jordan** is a rising senior at CUNY City College of New York studying Computer Science. This summer, he worked with the City of Boston’s Citywide Analytics team creating an overtime dashboard for the City's Property Management department, with the goal of predicting future spending and implementing a pre-approval process for overtime. | [Presentation](Antonio_Jordan.pdf)
 
-**Anya Dunaif** is a graduate of the University of Chicago where she studied Biological Sciences with a Specialization in Microbiology. She is also a recent graduate of Fullstack Academy where she studied Software Development. 
+**Anya Dunaif** is a graduate of the University of Chicago where she studied Biological Sciences with a Specialization in Microbiology. She is also a recent graduate of Fullstack Academy where she studied Software Development. This summer, she worked at the New York City Mayor's Office of the Chief Technology Officer on a project called Landing Page as a Service. It is a customizable landing page template designed for NYC agencies to easily set up their own static website. The website is accessible, mobile responsive, and includes multilingual support.
 
 **Ava Nordling** is a rising senior at Northeastern University studying Experience Design. This summer, she joined the four-person Service Design Studio at the New York City Mayor's Office of Economic Opportunity. She conducted exploratory interviews, delivered robust cultural research synthesis, and crafted representative language for a website documenting the inaugural "Designed by Community" fellowship. Ava shared that creating iteratively throughout the summer combined her deepest passions of communal visioning into a living practice, and grew her design mind exponentially. | [Presentation](Ava_Nordling.pdf)
 
-**Britney Johnson** is a third-year Ph.D. student at the Georgia Institute of Technology studying Human-Centered Computing. 
+**Britney Johnson** is a third-year Ph.D. student at the Georgia Institute of Technology studying Human-Centered Computing. This summer, she worked at the New York City Mayor's Office of the Chief Technology Officer (MOCTO) where she served as the Product Manager for two products: Landing Page as a Service (LPaaS) 2.0 and the Feedback Module. The LPaaS 2.0 product provides clients with an easier way to create their own landing pages, and the Feedback Module provides visitors of city agencies' websites with a way to directly send feedback.
 
 **Bryson Oar** is a recent graduate of the University of Utah where he studied Computer Science. This summer, he worked at the Utah Governor’s Office of Planning and Budget using React to revitalize and enhance an older budget management application. The enhancements streamlined and structured the entire process by which agencies track and report performance measures.
 
@@ -55,7 +55,7 @@ This repository features the slides that Corps members presented during their re
 
 **Carolyn Wang** is a rising sophomore at the University of California, Berkeley studying Computer Science and Political Economy. This summer, she worked as a software engineering Corps member at the City of Boston's Department of Innovation and Technology. She coded over 10 components to replace and decommission legacy applications, ultimately providing greater internal efficiency. Her project increased user accessibility and significantly improved the public's experience with resources and services.
 
-**Chithra Anand** is a sophomore at the University of California, Berkeley studying Computer Science. 
+**Chithra Anand** is a sophomore at the University of California, Berkeley studying Computer Science. This summer, she served as full stack technical lead developer of a team of 5 interns to develop a web app using Javascript/React, HTML/CSS, Firebase that leverages modern NLP, cloud, and computational law techniques to dynamically store, access, and release police records to the public at the San José Mayor’s Office of Technology and Innovation. She implemented an advanced fuzzy search functionality using Python NLP libraries. The project was acquired by the City of San José to deploy the app for use by 1 million+ citizens, to encourage greater law enforcement transparency.
 
 **Daniel Wilson** is a graduate student at the University of Toronto studying Cognitive Neuroscience. This summer, he worked at the New York City Mayor’s Office of Economic Opportunity on a project that involved creating a web app which replicated and extended the information from the Office’s annual Poverty Report. As, currently, the report is only released as a pdf the goal was to make the information contained in the report more accessible, dynamic, and extensible with interactive plots and downloadable data. | [Presentation](Daniel_Wilson.pdf)
 
@@ -91,7 +91,7 @@ This repository features the slides that Corps members presented during their re
 
 **Kara Siegel** is a rising sophomore at Harvard University studying Computer Science. This summer, she worked at the New York City Mayor’s Office of the Chief Technology Officer on a feedback module that can be placed at the bottom of any NYC government sites so that users can easily share feedback about their experience on the site. All information will automatically be parsed via Microsoft Flow so that site administrators can view the information via a spreadsheet or an email.
 
-**Karen Chen** is a rising senior at Harvard University studying History of Art and Architecture (Design Studies). 
+**Karen Chen** is a rising senior at Harvard University studying History of Art and Architecture (Design Studies). This summer, she worked at the New York City Department of City Planning’s Urban Design Office on The Streetscapes for Wellness interactive which is a proof of concept for making static drawings more engaging for the general public. It features camera animations and scene navigation to allow viewers a more in-depth and exploratory way to understand visuals, supplemented with text to create a narrative.
 
 **Kevin Zhou** is a rising sophomore at the University of Pennsylvania studying Computer Science. This summer, he worked at Miami’s Department of Innovation and Technology. 
 
@@ -125,7 +125,7 @@ This repository features the slides that Corps members presented during their re
 
 **Ryan Bushman** is a senior at Utah State University studying Statistics. This summer, he worked at the New York City Department of Health & Mental Hygiene’s Center for Health Equity and Community Wellness, creating numerous data visualization tools using Tableau. The intent of the project was to assess the performance of the agency’s By My Side Birth Support Program over time. The project is accompanied by a user guide for those unfamiliar with the software. He also conducted a quality-control analysis of the data collected by the program. 
 
-**Saiful Islam** is a rising senior at The City College of New York studying Computer Science. 
+**Saiful Islam** is a rising senior at The City College of New York studying Computer Science. This summer, he worked at the New York City Mayor’s Office of the Chief Technology Officer on the LPaaS 2.0 which stands for Landing Page as a Service. It will be used by NYC agency representatives to spin off their own landing pages for their new services, documents, or other ideas they wish to release to the public. Through this project, content editing is made easier and money is saved.
 
 **Sandra Zavala** is an undergraduate student at University of California, Berkeley studying Data Science and Applied Mathematics. This summer, she worked with the Los Angeles Mayor's Data Team and contributed data analysis for the Affirmatively Furthering Fair Housing Analysis. She also worked on evaluating the Los Angeles Emergency Rental Assistance Program's first phase by using an index to measure the allocation of financial distribution.
 
